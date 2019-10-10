@@ -8,7 +8,7 @@ Authors@R:
            email = "emeryl@uw.edu",
            comment = c(ORCID = "0000-0002-9070-9886"))
 Description: An example package I set up in order to understand the process of
-package development, and to hold any reusable R code I might wish to produce.
+  package development, and to hold any reusable R code I might wish to produce.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
